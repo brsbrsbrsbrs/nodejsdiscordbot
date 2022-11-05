@@ -1,3 +1,8 @@
+const fs = require('fs');
+
 module.exports = (client) => {
-  client.commands
+  client.handleCommands = async() => {
+    n
+    n
+    }
 }
